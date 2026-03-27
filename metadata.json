@@ -1,0 +1,9 @@
+{
+  "name": "Smart BIM Technical Manager",
+  "description": "Nền tảng quản lý kỹ thuật xây dựng thông minh tích hợp AI kiểm tra hồ sơ thiết kế, đối soát quy chuẩn PCCC QCVN 06 và trợ lý kỹ thuật TCVN.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
